@@ -15,14 +15,6 @@ const projects = [
         live: "https://pawancodecrafts.github.io/NamasteNews/",
     },
     {
-        title: "Personal Portfolio",
-        desc: "A modern portfolio website showcasing skills, projects, and contact details with a clean and responsive layout.",
-        tech: ["React.js", "CSS"],
-        image: portfolio,
-        github: "https://github.com/PawanCodeCrafts/pawan-portfolio",
-        live: "https://pawanpreet.vercel.app/",
-    },
-    {
         title: "Restaurant webpage",
         desc: " Desi Rasoi - A simple restaurant landing page built with HTML, CSS, and smooth AOS animations.",
         tech: ["html", "CSS", "Javascript", "aos-animation"],
@@ -81,3 +73,4 @@ const Projects = () => {
 };
 
 export default Projects;
+
