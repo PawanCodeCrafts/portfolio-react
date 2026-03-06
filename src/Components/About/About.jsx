@@ -10,10 +10,7 @@ const About = () => {
                 <h1 className="heading1">About <span>Me</span></h1>
             </div>
             <p>
-                Hi, I’m Pawanpreet Kaur, a web developer based in Punjab, India.
-                I have completed my Diploma and pursuing Bachelor’s degree in Computer Science and genuinely enjoy building websites that look good and work smoothly.
-                I love learning new things, especially AI , and I’m always curious to explore what’s next in tech.
-                When I’m coding, you’ll usually find me with a cup of tea — it’s my favorite coding companion.
+               I’m Pawanpreet Kaur, a passionate Web Developer experienced in React, Django, and MySQL. I enjoy developing clean, responsive, and efficient web applications while focusing on performance, usability, and scalable architecture. I’m always eager to learn new technologies and build impactful digital solutions.
             </p>
 
 
@@ -46,4 +43,5 @@ const About = () => {
 
 
 export default About;
+
 
