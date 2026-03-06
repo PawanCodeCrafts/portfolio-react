@@ -39,7 +39,7 @@ const Navbar = () => {
                     {/* Logo */}
                     <a className="navbar-brand d-flex align-items-center" href="/">
                         <span>&lt;</span>
-                        <span className="mx-1">CodeCrafts</span>
+                        <span className="mx-1">Pawanpreet</span>
                         <span className="mx-1">/</span>
                         <span>&gt;</span>
                     </a>
@@ -94,3 +94,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
